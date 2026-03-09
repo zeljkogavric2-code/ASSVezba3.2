@@ -1,9 +1,8 @@
 
 using System.Collections.Generic;
-using System.Linq;
+using LegacyOrderSystem.Helpers;
 using LegacyOrderSystem.Models;
 using LegacyOrderSystem.Repositories;
-using LegacyOrderSystem.Helpers;
 
 namespace LegacyOrderSystem.Services
 {

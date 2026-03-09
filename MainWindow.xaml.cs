@@ -4,7 +4,6 @@ using System.Linq;
 using System.Windows;
 using LegacyOrderSystem.Models;
 using LegacyOrderSystem.Services;
-using LegacyOrderSystem.Helpers;
 
 namespace LegacyOrderSystem
 {
